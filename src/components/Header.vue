@@ -22,7 +22,7 @@ export default {
   data() {
     return {
       navs: [
-        {value:"首页",path:"/",on:false},
+        {value:"首页123",path:"/",on:false},
         {value:"关于我们",path:"/",on:false},
         {value:"产品中心",path:"/",on:false},
         {value:"新闻资讯",path:"/",on:false},
